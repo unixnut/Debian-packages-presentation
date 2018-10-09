@@ -34,11 +34,18 @@ Please note that this talk will *not* cover becoming a Debian maintainer/develop
   1. .dsc file
 1. Creating .deb files
   1. debian subdirectory
-      1. Debian Changelog
-      1. 
+      1. Debian changelog
+      1. control
+      1. rules
+      1. compat
+      1. copyright
   1. Debhelper
       1. Automatic inclusions
+      1. Minimal rules file
+  1. Preparation
+      1. build-essential
   1. Build process
+      1. dpkg-buildpackage
 1. Archives
 
 ## Presenter bio
@@ -51,4 +58,4 @@ He is also a freelancer with his own business.  [Warpspace IT](http://www.warpsp
 
 ## Slides
 
-**TBA**
+[presentation.odp](presentation.odp)
